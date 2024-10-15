@@ -1,4 +1,4 @@
-# Fun-es.cpp
+# Funções.cpp
 #include <iostream>
 using namespace std;
 
